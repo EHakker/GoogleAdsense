@@ -1,2 +1,7 @@
-# GoogleAdsense
-用于 Google 顶级域名验证广告
+# ro-store
+
+> 仙境 RO 商城
+
+------
+
+https://store.casualro.top/
